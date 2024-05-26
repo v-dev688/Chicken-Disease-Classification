@@ -1,0 +1,31 @@
+[2024-05-26 09:09:24,380: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-26 09:09:24,382: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-26 09:09:24,383: INFO: common: created directory at: artifacts]
+[2024-05-26 09:09:24,384: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-26 09:09:27,242: INFO: 4037744573: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11621297
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "9c59eb086f697a4734c2bda47f04f88206df50dfc5d0dcc683113e225dfde848"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 0BA6:8CAFE:CBBE1:127A8B:6652AEEF
+Accept-Ranges: bytes
+Date: Sun, 26 May 2024 03:39:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10228-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1716694768.009568,VS0,VE927
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 598e50e396603829ef366124cd07eadae05e6a5e
+Expires: Sun, 26 May 2024 03:44:28 GMT
+Source-Age: 1
+
+]
