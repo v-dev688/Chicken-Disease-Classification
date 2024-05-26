@@ -64,3 +64,88 @@ Source-Age: 0
 [2024-05-26 10:46:33,180: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-05-26 11:26:27,218: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-26 11:26:27,218: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-26 11:26:27,218: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-26 11:26:27,226: INFO: common: created directory at: artifacts]
+[2024-05-26 11:26:27,226: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-26 11:26:29,319: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E3AF:8E9D0:D178C:13148D:6652C1E0
+Accept-Ranges: bytes
+Date: Sun, 26 May 2024 05:56:30 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10241-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1716702991.671601,VS0,VE268
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0c57dade3386d2e19a80d127aa469bb48fc806bf
+Expires: Sun, 26 May 2024 06:01:30 GMT
+Source-Age: 0
+
+]
+[2024-05-26 11:26:29,854: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-26 11:26:43,285: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-26 11:26:43,287: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-26 11:26:43,287: INFO: common: created directory at: artifacts]
+[2024-05-26 11:26:43,290: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-05-26 11:26:43,761: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-26 11:39:17,827: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-26 11:39:17,827: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-26 11:39:17,827: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-26 11:39:17,827: INFO: common: created directory at: artifacts]
+[2024-05-26 11:39:17,835: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-26 11:39:20,591: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E3AF:8E9D0:D178C:13148D:6652C1E0
+Accept-Ranges: bytes
+Date: Sun, 26 May 2024 06:09:21 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10239-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1716703761.303103,VS0,VE269
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b7e9716b693eef5c84f8bfecdaff52f6dd487e4c
+Expires: Sun, 26 May 2024 06:14:21 GMT
+Source-Age: 0
+
+]
+[2024-05-26 11:39:21,093: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-26 11:39:21,095: INFO: main: *******************]
+[2024-05-26 11:39:21,095: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-26 11:39:21,096: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-05-26 11:39:21,098: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-26 11:39:21,098: INFO: common: created directory at: artifacts]
+[2024-05-26 11:39:21,098: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-05-26 11:39:21,415: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-26 11:39:21,589: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
